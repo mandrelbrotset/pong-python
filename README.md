@@ -18,7 +18,7 @@ To install **pygame** run this in terminal/command prompt
 ```$ pip install pygame```
 
 # NOTES on ```Game/pong.py``` file
-* use **UP** and **DOWN** keys to move right paddle up or down.
+* Use **UP** and **DOWN** keys to move right paddle up or down.
 * The ai controls the left paddle by default. 
 * Set default argument of ```ai_paddle``` to ```None``` in ```left_paddle``` function to make a **user** control the left paddle.
 * The keyboards **W** and **S** can be used to control the left paddle. 
