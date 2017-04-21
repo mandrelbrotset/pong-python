@@ -1,7 +1,7 @@
 # Pong_pygame_python
 Pong game written in python with pygame module
 
-# DO NOT CHANGE THE DIRECTORY STRUCTURE
+![screen_pong](https://cloud.githubusercontent.com/assets/24194821/25294427/c8b3a3fe-26a4-11e7-9e7d-d494bd961b4a.png)
 
 # Usage
 ```~/Pong_pygame_python$ python run.py```
@@ -17,7 +17,7 @@ Pong game written in python with pygame module
 To install **pygame** run this in terminal/command prompt
 ```$ pip install pygame```
 
-# NOTES on ```Game/pong.py``` file
+# NOTES
 * Use **UP** and **DOWN** keys to move right paddle up or down.
 * The ai controls the left paddle by default. 
 * Set default argument of ```ai_paddle``` to ```None``` in ```left_paddle``` function to make a **user** control the left paddle.
