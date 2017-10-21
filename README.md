@@ -1,16 +1,16 @@
-# Pong_pygame_python
+# pong-python
 Pong game written in python with pygame module
 
 ![screen_pong](https://cloud.githubusercontent.com/assets/24194821/25294427/c8b3a3fe-26a4-11e7-9e7d-d494bd961b4a.png)
 
-# Usage
+# usage
 ```~/Pong_pygame_python$ python run.py```
 
-# Dependency
+# dependency
 * python 3 (pygame does not behave well with python 2)
 * pygame 1.9.3
 
-# Installing dependecies
+# installing dependecies
 ## python 3 (for windows)
 [Go to download page for python](https://www.python.org/ftp/python/3.5.3/python-3.5.3.exe)
 ## pygame 1.9.3
