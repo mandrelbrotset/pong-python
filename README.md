@@ -1,5 +1,5 @@
 # pong-python
-Pong game written in python with pygame module
+Pong game written in python with pygame module. You can play against an AI opponent which is not very smart.
 
 ![screen_pong](https://cloud.githubusercontent.com/assets/24194821/25294427/c8b3a3fe-26a4-11e7-9e7d-d494bd961b4a.png)
 
