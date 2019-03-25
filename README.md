@@ -10,7 +10,7 @@ Pong game written in python with pygame module. You can play against an AI oppon
 * python 3 (pygame does not behave well with python 2)
 * pygame 1.9.3
 
-# installing dependecies
+# installing dependencies
 ## python 3 (for windows)
 [Go to download page for python](https://www.python.org/ftp/python/3.5.3/python-3.5.3.exe)
 ## pygame 1.9.3
